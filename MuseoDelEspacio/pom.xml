@@ -9,14 +9,13 @@
     
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <jakartaee>11.0.0-M1</jakartaee>
     </properties>
     
     <dependencies>
         <dependency>
             <groupId>jakarta.platform</groupId>
             <artifactId>jakarta.jakartaee-api</artifactId>
-            <version>${jakartaee}</version>
+            <version>10.0.0</version>
             <scope>provided</scope>
         </dependency>
     </dependencies>
