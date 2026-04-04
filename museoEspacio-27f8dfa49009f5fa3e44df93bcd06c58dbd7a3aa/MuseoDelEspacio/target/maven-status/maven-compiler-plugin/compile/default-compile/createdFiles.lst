@@ -1,0 +1,4 @@
+com\mycompany\museodelespacio\resources\JakartaEE11Resource.class
+com\mycompany\museodelespacio\resources\WikipediaServlet.class
+com\mycompany\museodelespacio\JakartaRestConfiguration.class
+com\mycompany\museodelespacio\resources\JakartaEE11FallbackServlet.class
